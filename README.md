@@ -2,7 +2,7 @@
 
 ![CI](https://github.com/EvgeniyPryanichnikov/ahj-html-forms/actions/workflows/web.yml/badge.svg)
 
-deployment:
+deployment: 
 #### Легенда
 
 Есть замечательный фреймворк Bootstrap, в котором реализовано достаточно много интересных виджетов с использованием jQuery. Но, как говорят современные и модные программисты, «jQuery не нужен», поэтому реализован виджет на чистом JS.
