@@ -2,7 +2,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/i5qntrlpgas57e2d?svg=true)](https://ci.appveyor.com/project/EvgeniyPryanichnikov/ahj-html-forms)
 
-deployment: 
+deployment: https://evgeniypryanichnikov.github.io/ahj-html-forms/
 #### Легенда
 
 Есть замечательный фреймворк Bootstrap, в котором реализовано достаточно много интересных виджетов с использованием jQuery. Но, как говорят современные и модные программисты, «jQuery не нужен», поэтому реализован виджет на чистом JS.
