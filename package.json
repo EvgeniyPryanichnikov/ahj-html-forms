@@ -1,5 +1,5 @@
 {
-  "name": "popover_and_list-editor",
+  "name": "ahj-html-forms",
   "version": "1.0.1",
   "description": "two tasks about forms",
   "main": "index.js",
@@ -18,7 +18,7 @@
   "keywords": [
     "form"
   ],
-  "author": "Marina",
+  "author": "EvgeniyPryanichnikov",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.21.0",
