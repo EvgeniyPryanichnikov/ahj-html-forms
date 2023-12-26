@@ -1,6 +1,6 @@
 ### Popovers
 
-![CI](https://github.com/EvgeniyPryanichnikov/ahj-html-forms/actions/workflows/web.yml/badge.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/i5qntrlpgas57e2d?svg=true)](https://ci.appveyor.com/project/EvgeniyPryanichnikov/ahj-html-forms)
 
 deployment: 
 #### Легенда
